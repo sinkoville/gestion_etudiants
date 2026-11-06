@@ -1,2 +1,2 @@
-# gestion_etudiants
-Gestion des etudiants
+"# Gestion des etudiants" 
+"Application Python de gestion des etudiants" 
